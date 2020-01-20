@@ -14,6 +14,11 @@ namespace RoutePlaner
 
             Console.WriteLine($"Distance {bern.Name} -- {berlin.Name}: " + $"{bern.Distance(berlin):####.#} km");
 
+
+
+            CityRepositoryFile cityRepo = new CityRepositoryFile("cities.txt");
+
+
             Console.WriteLine(pratteln);
             Console.ReadKey();
         }
