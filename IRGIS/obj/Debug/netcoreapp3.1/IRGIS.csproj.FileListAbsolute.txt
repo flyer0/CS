@@ -1,0 +1,11 @@
+/Users/kilian/Documents/GitHub/CS/IRGIS/bin/Debug/netcoreapp3.1/IRGIS
+/Users/kilian/Documents/GitHub/CS/IRGIS/bin/Debug/netcoreapp3.1/IRGIS.deps.json
+/Users/kilian/Documents/GitHub/CS/IRGIS/bin/Debug/netcoreapp3.1/IRGIS.runtimeconfig.json
+/Users/kilian/Documents/GitHub/CS/IRGIS/bin/Debug/netcoreapp3.1/IRGIS.runtimeconfig.dev.json
+/Users/kilian/Documents/GitHub/CS/IRGIS/bin/Debug/netcoreapp3.1/IRGIS.dll
+/Users/kilian/Documents/GitHub/CS/IRGIS/bin/Debug/netcoreapp3.1/IRGIS.pdb
+/Users/kilian/Documents/GitHub/CS/IRGIS/obj/Debug/netcoreapp3.1/IRGIS.csprojAssemblyReference.cache
+/Users/kilian/Documents/GitHub/CS/IRGIS/obj/Debug/netcoreapp3.1/IRGIS.AssemblyInfoInputs.cache
+/Users/kilian/Documents/GitHub/CS/IRGIS/obj/Debug/netcoreapp3.1/IRGIS.AssemblyInfo.cs
+/Users/kilian/Documents/GitHub/CS/IRGIS/obj/Debug/netcoreapp3.1/IRGIS.dll
+/Users/kilian/Documents/GitHub/CS/IRGIS/obj/Debug/netcoreapp3.1/IRGIS.pdb
