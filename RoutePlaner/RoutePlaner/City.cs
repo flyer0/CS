@@ -15,5 +15,10 @@ namespace RoutePlaner
             Population = population;
             Location = loc;
         }
+
+        public override string ToString()
+        {
+            return $"City population {Population} {Location}";
+        }
     }
 }

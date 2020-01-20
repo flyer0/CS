@@ -18,8 +18,9 @@ namespace RoutePlaner
 
             CityRepositoryFile cityRepo = new CityRepositoryFile("cities.txt");
 
+            
 
-            Console.WriteLine(pratteln);
+            Console.WriteLine(cityRepo.findCityByName("Basel"));
             Console.ReadKey();
         }
     }
