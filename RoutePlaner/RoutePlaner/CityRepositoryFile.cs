@@ -48,5 +48,38 @@ namespace RoutePlaner
             }
             return null;
         }
+
+        public List<City> FindNeighbours(WayPoint loc, double distance)
+        {
+           // List<City> neighbours = new List<City>();
+            //Lambda
+
+            //neighbours = cities.FindAll(c => loc.Distance(c.Location) < distance);
+
+            /*
+            foreach (City c in cities)
+            {
+                if (loc.Distance(c.Location) < distance)
+                {
+                    neighbours.Add(c);
+                }
+            }*/
+
+
+
+
+            List<City> neighbours = cities.FindAll(c => loc.Distance(c.Location) < distance);
+            neighbours.Sort(
+                delegate (City a, City b)
+                {
+                    if (loc.Distance(a.Location) < loc.Distance(b.Location))
+                    {
+                        return -1;
+                    }
+                    return 1;
+                });
+            return neighbours;
+        }
+
     }
 }

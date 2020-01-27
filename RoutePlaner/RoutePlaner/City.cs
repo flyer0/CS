@@ -20,5 +20,10 @@ namespace RoutePlaner
         {
             return $"City population {Population} {Location}";
         }
+
+        internal object Distance(City other)
+        {
+            return Location.Distance(other.Location);
+        }
     }
 }

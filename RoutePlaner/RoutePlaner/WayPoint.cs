@@ -4,6 +4,7 @@ namespace RoutePlaner
 {
     public class WayPoint
     {
+        // Automatic properties
         public double Latitude { get; }
         public double Longitude { get; }
         public string Name { get; private set; } //private is default
@@ -32,6 +33,7 @@ namespace RoutePlaner
             double lomin = (Longitude - (int)Longitude) * 60;
             return $"WayPoint: {Name} {(int)Latitude:##}°{latmin:##} / {(int)Longitude:##}°{lomin:##}";
         }
+
     }
 }
     
