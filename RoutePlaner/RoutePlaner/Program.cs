@@ -1,4 +1,5 @@
 ﻿using System;
+using RoutePlanner;
 
 namespace RoutePlaner
 {
@@ -46,7 +47,28 @@ namespace RoutePlaner
             }
 
             LinkRepositoryFile linkRepo = new LinkRepositoryFile("links.txt",cityRepo);
-            Console.WriteLine($"Link {linkRepo.Count}");
+            City Basel = cityRepo.findCityByName("Basel");
+            Console.WriteLine($"Neighbors of {Basel.Name}");
+            foreach(City n in linkRepo.FindNeighbours(Basel, Link.TransportModeType.Rail))
+            {
+                Console.WriteLine(n.Name);
+            }
+            Console.WriteLine("Links from Basel to Liestal:");
+            City liestal = cityRepo.findCityByName("Liestal");
+            
+            Console.WriteLine(linkRepo.FindLink(Basel, liestal, Link.TransportModeType.Rail));
+
+
+            string a = "Basel";
+            string b = "Berlin";
+            Console.WriteLine($"Shortest Route between {a} and {b}, a, b");
+            RouteManager routeManager = new RouteManager (cityRepo, linkRepo );
+            foreach(Link l in routeManager.FindShortestRouteBetween(a, b, Link.TransportModeType.Rail))
+            {
+                Console.WriteLine(l);
+            }
+
+           // Console.WriteLine($"Link {linkRepo.Count}");
             
             Console.ReadKey();
         }

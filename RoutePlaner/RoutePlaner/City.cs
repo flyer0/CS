@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+
 namespace RoutePlaner
 {
     public class City
@@ -25,5 +27,7 @@ namespace RoutePlaner
         {
             return Location.Distance(other.Location);
         }
+
+
     }
 }
