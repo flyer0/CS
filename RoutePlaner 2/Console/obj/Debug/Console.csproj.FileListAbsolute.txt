@@ -1,0 +1,26 @@
+C:/Users/juan.bernstein/OneDrive - Fachhochschule Nordwestschweiz/Documents/_School/SE/CSharp/RoutePlaner/Console/bin/Debug/cities.txt
+C:/Users/juan.bernstein/OneDrive - Fachhochschule Nordwestschweiz/Documents/_School/SE/CSharp/RoutePlaner/Console/bin/Debug/links.txt
+C:/Users/juan.bernstein/OneDrive - Fachhochschule Nordwestschweiz/Documents/_School/SE/CSharp/RoutePlaner/Console/bin/Debug/Console.exe.config
+C:/Users/juan.bernstein/OneDrive - Fachhochschule Nordwestschweiz/Documents/_School/SE/CSharp/RoutePlaner/Console/bin/Debug/Console.exe
+C:/Users/juan.bernstein/OneDrive - Fachhochschule Nordwestschweiz/Documents/_School/SE/CSharp/RoutePlaner/Console/bin/Debug/Console.pdb
+C:/Users/juan.bernstein/OneDrive - Fachhochschule Nordwestschweiz/Documents/_School/SE/CSharp/RoutePlaner/Console/bin/Debug/RoutePlaner.dll
+C:/Users/juan.bernstein/OneDrive - Fachhochschule Nordwestschweiz/Documents/_School/SE/CSharp/RoutePlaner/Console/bin/Debug/RoutePlaner.pdb
+C:/Users/juan.bernstein/OneDrive - Fachhochschule Nordwestschweiz/Documents/_School/SE/CSharp/RoutePlaner/Console/bin/Debug/RoutePlaner.dll.config
+C:/Users/juan.bernstein/OneDrive - Fachhochschule Nordwestschweiz/Documents/_School/SE/CSharp/RoutePlaner/Console/bin/Debug/RoutePlaner.exe.config
+C:/Users/juan.bernstein/OneDrive - Fachhochschule Nordwestschweiz/Documents/_School/SE/CSharp/RoutePlaner/Console/obj/Debug/Console.csprojAssemblyReference.cache
+C:/Users/juan.bernstein/OneDrive - Fachhochschule Nordwestschweiz/Documents/_School/SE/CSharp/RoutePlaner/Console/obj/Debug/Console.csproj.CopyComplete
+C:/Users/juan.bernstein/OneDrive - Fachhochschule Nordwestschweiz/Documents/_School/SE/CSharp/RoutePlaner/Console/obj/Debug/Console.exe
+C:/Users/juan.bernstein/OneDrive - Fachhochschule Nordwestschweiz/Documents/_School/SE/CSharp/RoutePlaner/Console/obj/Debug/Console.pdb
+/Users/kilian/Documents/GitHub/CS/RoutePlaner 2/Console/bin/Debug/cities.txt
+/Users/kilian/Documents/GitHub/CS/RoutePlaner 2/Console/bin/Debug/links.txt
+/Users/kilian/Documents/GitHub/CS/RoutePlaner 2/Console/bin/Debug/Console.exe.config
+/Users/kilian/Documents/GitHub/CS/RoutePlaner 2/Console/bin/Debug/Console.exe
+/Users/kilian/Documents/GitHub/CS/RoutePlaner 2/Console/bin/Debug/Console.pdb
+/Users/kilian/Documents/GitHub/CS/RoutePlaner 2/Console/bin/Debug/RoutePlaner.dll
+/Users/kilian/Documents/GitHub/CS/RoutePlaner 2/Console/bin/Debug/RoutePlaner.pdb
+/Users/kilian/Documents/GitHub/CS/RoutePlaner 2/Console/bin/Debug/RoutePlaner.dll.config
+/Users/kilian/Documents/GitHub/CS/RoutePlaner 2/Console/bin/Debug/RoutePlaner.exe.config
+/Users/kilian/Documents/GitHub/CS/RoutePlaner 2/Console/obj/Debug/Console.csprojAssemblyReference.cache
+/Users/kilian/Documents/GitHub/CS/RoutePlaner 2/Console/obj/Debug/Console.csproj.CopyComplete
+/Users/kilian/Documents/GitHub/CS/RoutePlaner 2/Console/obj/Debug/Console.exe
+/Users/kilian/Documents/GitHub/CS/RoutePlaner 2/Console/obj/Debug/Console.pdb

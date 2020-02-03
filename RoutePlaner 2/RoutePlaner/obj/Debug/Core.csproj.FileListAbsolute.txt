@@ -1,0 +1,16 @@
+C:/Users/juan.bernstein/OneDrive - Fachhochschule Nordwestschweiz/Documents/_School/SE/CSharp/RoutePlaner/RoutePlaner/bin/Debug/cities.txt
+C:/Users/juan.bernstein/OneDrive - Fachhochschule Nordwestschweiz/Documents/_School/SE/CSharp/RoutePlaner/RoutePlaner/bin/Debug/links.txt
+C:/Users/juan.bernstein/OneDrive - Fachhochschule Nordwestschweiz/Documents/_School/SE/CSharp/RoutePlaner/RoutePlaner/bin/Debug/RoutePlaner.dll.config
+C:/Users/juan.bernstein/OneDrive - Fachhochschule Nordwestschweiz/Documents/_School/SE/CSharp/RoutePlaner/RoutePlaner/bin/Debug/RoutePlaner.dll
+C:/Users/juan.bernstein/OneDrive - Fachhochschule Nordwestschweiz/Documents/_School/SE/CSharp/RoutePlaner/RoutePlaner/bin/Debug/RoutePlaner.pdb
+C:/Users/juan.bernstein/OneDrive - Fachhochschule Nordwestschweiz/Documents/_School/SE/CSharp/RoutePlaner/RoutePlaner/obj/Debug/Core.csprojAssemblyReference.cache
+C:/Users/juan.bernstein/OneDrive - Fachhochschule Nordwestschweiz/Documents/_School/SE/CSharp/RoutePlaner/RoutePlaner/obj/Debug/RoutePlaner.dll
+C:/Users/juan.bernstein/OneDrive - Fachhochschule Nordwestschweiz/Documents/_School/SE/CSharp/RoutePlaner/RoutePlaner/obj/Debug/RoutePlaner.pdb
+/Users/kilian/Documents/GitHub/CS/RoutePlaner 2/RoutePlaner/bin/Debug/cities.txt
+/Users/kilian/Documents/GitHub/CS/RoutePlaner 2/RoutePlaner/bin/Debug/links.txt
+/Users/kilian/Documents/GitHub/CS/RoutePlaner 2/RoutePlaner/bin/Debug/RoutePlaner.dll.config
+/Users/kilian/Documents/GitHub/CS/RoutePlaner 2/RoutePlaner/bin/Debug/RoutePlaner.dll
+/Users/kilian/Documents/GitHub/CS/RoutePlaner 2/RoutePlaner/bin/Debug/RoutePlaner.pdb
+/Users/kilian/Documents/GitHub/CS/RoutePlaner 2/RoutePlaner/obj/Debug/Core.csprojAssemblyReference.cache
+/Users/kilian/Documents/GitHub/CS/RoutePlaner 2/RoutePlaner/obj/Debug/RoutePlaner.dll
+/Users/kilian/Documents/GitHub/CS/RoutePlaner 2/RoutePlaner/obj/Debug/RoutePlaner.pdb
