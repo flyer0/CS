@@ -51,8 +51,8 @@ namespace RoutePlaner
 
         public List<City> FindNeighbours(WayPoint loc, double distance)
         {
-           // List<City> neighbours = new List<City>();
-            //Lambda
+            // List<City> neighbours = new List<City>();
+
 
             //neighbours = cities.FindAll(c => loc.Distance(c.Location) < distance);
 
@@ -66,7 +66,7 @@ namespace RoutePlaner
             }*/
 
 
-
+            //Lambda
 
             List<City> neighbours = cities.FindAll(c => loc.Distance(c.Location) < distance);
             neighbours.Sort(

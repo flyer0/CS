@@ -45,6 +45,9 @@ namespace RoutePlaner
                 Console.WriteLine($"{c.Name}: {pratteln.Distance(c.Location):###.#} km");
             }
 
+            LinkRepositoryFile linkRepo = new LinkRepositoryFile("links.txt",cityRepo);
+            Console.WriteLine($"Link {linkRepo.Count}");
+            
             Console.ReadKey();
         }
     }
